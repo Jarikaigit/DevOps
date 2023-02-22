@@ -10,7 +10,7 @@ if (int.TryParse(userInput, out int parsedNumber))
 
     if(exponent > 100)
     {
-        Console.WriteLine("Sata");
+        Console.WriteLine("Satayksi");
     }
 
     if(exponent > 200)

@@ -10,11 +10,6 @@ namespace UnitTesting
     /// Bank account demo class.
     /// </summary>
     public class BankAccount
-    
-
-
-
-    
     {
         private readonly string m_customerName;
         private double m_balance;
